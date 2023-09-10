@@ -22,9 +22,9 @@ console.log(id === anotherId);
 
 // Array, Objects, Functions
 
-const heros = ["shaktiman", "naagraj", "doga"];
+const heros = ["shaktiman", "vijay", "dog"];
 let myObj = {
-    name: "hitesh",
+    name: "vivek",
     age: 22,
 }
 
